@@ -1,2 +1,2 @@
 # PhotoEditor
-Simple photo editor
+Simple photo editor on c#. Some filters, no more...
